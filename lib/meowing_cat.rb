@@ -3,4 +3,4 @@ class Cat
   attr_accessor :name
 end
 
-attr_accessor.maru
+attr_accessor.new
