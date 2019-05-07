@@ -7,3 +7,5 @@ class Cat
     @name
   end
 end
+
+cat.meow
